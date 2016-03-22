@@ -1,0 +1,16 @@
+.clickable p {
+  display: none;
+  text-decoration: none;
+  color: black;
+}
+
+.clickable li {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+  font-weight: bold;
+}
+
+.javascript {
+  font-style: italic;
+}
